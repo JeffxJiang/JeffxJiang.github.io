@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-04 19:54:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+First news post here. Let's get this party started!
