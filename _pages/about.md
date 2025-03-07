@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: 12.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Sydney</p>

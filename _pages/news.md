@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /news/
-title: news
+permalink: /announcements/
+title: announcements
 nav: true
 nav_order: 4
 ---

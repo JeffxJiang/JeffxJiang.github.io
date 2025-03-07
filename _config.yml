@@ -7,7 +7,7 @@ first_name: Jeff
 middle_name:
 last_name: Jiang
 contact_note: >
-  A little project to play with and relax to after work.
+  A little project work on after work.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   DESCRIPTION
 footer_text: >
@@ -191,6 +191,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - pyenv/
+  - .pyenv/
 keep_files:
   - CNAME
   - .nojekyll
