@@ -7,7 +7,7 @@ first_name: Jeff
 middle_name:
 last_name: Jiang
 contact_note: >
-  A little project work on after work.
+  A little project <s>work on</s> play with after work.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   DESCRIPTION
 footer_text: >
